@@ -7,7 +7,6 @@ def GregoryLeibniz():
 	"Uses the Gregory-Leibniz infinite series to calculate Pi"
 	
 	iter = 1;
-	frac = 1;
 	pi = 4;
 	
 	# 1 - 1/3 + 1/5 - 1/7 ...
